@@ -1,8 +1,8 @@
 {
-	"extension_name" : {
+	"AppName" : {
 		"message" : "Bookmarklet Paprika"
 	},
-	"extension_description" : {
+	"AppDesc" : {
 		"message" : "Cette extension non-officielle installe la bookmarklet de Paprika sur votre navigateur."
 	},
 	"already_saved" : {
