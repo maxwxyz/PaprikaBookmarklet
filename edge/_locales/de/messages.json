@@ -1,0 +1,11 @@
+{
+	"appName" : {
+		"message" : "Paprika Lesezeichen"
+	},
+	"appDesc" : {
+		"message" : "Diese nicht-offizielle Erweiterung installiert das Paprika Lesezeichen in deinem Browser."
+	},
+	"already_saved" : {
+		"message" : "Dieses Rezept wurde betreits gespeichert!"
+	}
+}
